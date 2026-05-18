@@ -1,0 +1,9 @@
+{
+  "receipt_id": "f4777738-4653-4eed-96e2-c5042646b343",
+  "timestamp": 1779130383,
+  "validator": "validator-local",
+  "workload_hash": "c09492e22dc9662afa2bc8c74cf88d9c3810883b354ad98e93c27540a200fa69",
+  "truth_score": 1.0,
+  "verified": true,
+  "signature": "6e8e2a43f212a4cc942ff72414f275bd75cbba4268fea5e3c1385c925a0406d1"
+}
