@@ -13,3 +13,12 @@ Current Status:
 - Testnet only
 - Non-economic
 - Experimental
+
+## Public Docker Validator
+
+Launch a ComputeNet validator instantly:
+
+```bash
+docker pull ghcr.io/computenetprotocol/validator:latest
+
+docker run -p 8787:8787 ghcr.io/computenetprotocol/validator:latest
