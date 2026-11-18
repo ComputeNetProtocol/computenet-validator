@@ -1,0 +1,183 @@
+{
+  "descriptor": {
+    "configuration": {
+      "checkpoint": [
+        "3af8a680109899fe966e5c871479b3987aa1d5cef2d3f27f10d4bc113ca7ef9a",
+        "00002510a566651f12d5f610205832a37c0d085dec1ad94be48fce46f19b2370",
+        "000096e61bab2a3485cddc046f200413b7699e142887b85f450a77c46b6ef47c",
+        "000088f9b3a18d58f51ea11e0b49ec1d6a5a65f124a0f2dcdcf9464f2c450544",
+        "00004b7213adc9f19a480d6aee9cd824087d786ee91bae6cbdf2bec56d97d950",
+        "000049cb07aa6a89555e33d70bb8eae3d6ca76e2c6d3a51b80bdfdf6664e13ef",
+        "00004803d9f2c72a0f1f0319f82ec310f50e30d9c3f53cefce88b9facd84de41",
+        "00007ff5283695962b8f7cfd67bc7a4f4995c152c50cb4b98f40e6592841f3cc"
+      ],
+      "entropy": {
+        "commits": {
+          "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64": {
+            "payload": {
+              "commitment": "sha256:e5802c91f71847cb290c47dc2609f2c98879ece7729fcbe4f822777322e8b16a",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64",
+              "schema": "computenet.entropy-commit/v1"
+            },
+            "signature": "Id4byE3g7XzGsxAwFHfFcJt_FCjJIJO3Jw8HIMyOVHGNt-e06ZeJ65aRP3C-W1zmgz8QNKekiHInnxu7QKEZCQ"
+          },
+          "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0": {
+            "payload": {
+              "commitment": "sha256:a3000cb3eb2f1ac676ff5b83d6bef407dee476bd62a544bd12d127c26f85a66e",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0",
+              "schema": "computenet.entropy-commit/v1"
+            },
+            "signature": "nDbkHcM6THB8m7RYquRNcyeEAcTI2pHLkgbAPM6uWJPKsPTCJcuDcBq-xsYHpgHPt6AcMshOnCohJfpCgmxCCw"
+          }
+        },
+        "freezes": {
+          "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64": {
+            "payload": {
+              "frozen_commit_set": "sha256:a147494a98f44095b516a96d3ecf979c19ee8f0d0c4d85f787960188d6002f71",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64",
+              "schema": "computenet.entropy-freeze/v1"
+            },
+            "signature": "WW5SJ8EeCJE-Z85soYMMqwTBcr69W-eGlRkERqDcBAqFTdJFna1ZAdPD1F5jiuS_5usEHBxu1m4uyFj2J9WoDg"
+          },
+          "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0": {
+            "payload": {
+              "frozen_commit_set": "sha256:a147494a98f44095b516a96d3ecf979c19ee8f0d0c4d85f787960188d6002f71",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0",
+              "schema": "computenet.entropy-freeze/v1"
+            },
+            "signature": "PTzTiAKrFLx-z7F3As5rETdaGg4jR-MyD-JzJOtxgysEyFyKLk4iuNM97iKN-HHnZFps5Ws_Ge8feM3i8UimDg"
+          }
+        },
+        "manifest": {
+          "checkpoint_head": "00007ff5283695962b8f7cfd67bc7a4f4995c152c50cb4b98f40e6592841f3cc",
+          "expires": 1795089600,
+          "network": "computenet-mainnet-1",
+          "not_before": 1795003200,
+          "participants": {
+            "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64": "IkqbFAbFLtHmGrpOQ7WF46XNNNrL4jh2sSjeGQbUBgs",
+            "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0": "4AGMHwpflidR6P5P9_YnOy8RLNry-A8TV20w05Yf19s"
+          },
+          "schema": "computenet.activation-entropy/isolated-v1"
+        },
+        "reveals": {
+          "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64": {
+            "payload": {
+              "frozen_commit_set": "sha256:a147494a98f44095b516a96d3ecf979c19ee8f0d0c4d85f787960188d6002f71",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_31923ec5b0a6bc8140e731191d0c1d434e1b1e64",
+              "schema": "computenet.entropy-reveal/v1",
+              "secret": "a5aa89ed643e8820b037e82e1a73700b391e3442430fdccb397f3a622e49201a"
+            },
+            "signature": "nR5G0ldxzFd5RQbRtgJsuPHW9uw16G9zoTTLrf7ANU49egOPmGT020ukQ-bq6AQEebQATQXUyRrshZYHgH70Dw"
+          },
+          "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0": {
+            "payload": {
+              "frozen_commit_set": "sha256:a147494a98f44095b516a96d3ecf979c19ee8f0d0c4d85f787960188d6002f71",
+              "manifest": "sha256:8cce22f956b2958c2e24da2ec9684d8db95ceeb5db9afc44f02342440b85ca70",
+              "participant": "cmp_67346dc3d4b85fc1b4b6fdc07c1275236d4aeac0",
+              "schema": "computenet.entropy-reveal/v1",
+              "secret": "7a37394ffeed81cffa1b26469a18109d44fec6ddfeaf2967c11950da436137ab"
+            },
+            "signature": "NAF_5K9omUOhsducI35UBimLmwi-T51Soqhl-R0464vAOkwartnCOHowx9O7C3Dv5FmEwpPLE-bIqqZyWYIeAQ"
+          }
+        }
+      },
+      "expected_protocol_id": "sha256:6f6e4df92ef805fd059c06be8ef8733658b947448cced41472cb3298088567de",
+      "migration": {
+        "activation_status": "active",
+        "legacy_address": "cmp_63cc4879bc2e159c8e5a953b822513d405b614d4",
+        "new_address": "cmp_39bd77fab1819c9f48f18ed498d33cf0e53865df"
+      },
+      "policies": {
+        "sha256:7d3ab19fb2a3d5f548722c5502e96b0b0538ac7ca30a785c49eab3f9a44b8de6": [
+          {
+            "activation_height": 8,
+            "customers": {
+              "cmp_86c0e982b66f2ca0608809a4fa58b7de0c93e70d": "L6m2iIPb9YrCTv4Tx5bw30RhzTX41j7uWaWL6Hmjkm0"
+            },
+            "execution_policy_id": "sha256:bad481d2f9fc8fb34103d50f72891e47644c561a41d938a49aad8a270f8e340a",
+            "fee_units": 1,
+            "funding_accounts": [
+              "cmp_86c0e982b66f2ca0608809a4fa58b7de0c93e70d"
+            ],
+            "max_order_units": 8,
+            "network": "computenet-mainnet-1",
+            "payout_addresses": {
+              "cmp_2de0454f4270dc596ca54fcc0df56a9557f579a8": "cmp_2de0454f4270dc596ca54fcc0df56a9557f579a8",
+              "cmp_51d67a40fb2e2375e2a66bbf5ebcdd3d52f78452": "cmp_51d67a40fb2e2375e2a66bbf5ebcdd3d52f78452",
+              "cmp_52d44f5d2dec2d6d560142d74d29570e0fce0f89": "cmp_52d44f5d2dec2d6d560142d74d29570e0fce0f89",
+              "cmp_86c0e982b66f2ca0608809a4fa58b7de0c93e70d": "cmp_86c0e982b66f2ca0608809a4fa58b7de0c93e70d"
+            },
+            "retirement_height": null,
+            "reward_units": 1,
+            "schema": "computenet.proposed-funded-settlement/v1",
+            "status": "provisional-unratified",
+            "version": 1
+          },
+          {
+            "assurance": "independent-deterministic-replay",
+            "epoch": 1,
+            "network": "computenet-mainnet-1",
+            "quorum": 3,
+            "reward_units": 1,
+            "runtime_image": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+            "runtime_version": "inactive-unfunded-bootstrap-registry",
+            "schema": "computenet.verification-policy/v1",
+            "validators": {
+              "cmp_2de0454f4270dc596ca54fcc0df56a9557f579a8": "npUGws7bhGkNhke9lMAufsqZYa-P7g-sHcsYJl8lLlA",
+              "cmp_51d67a40fb2e2375e2a66bbf5ebcdd3d52f78452": "tMQM1tepBAQPCBpFDb1Z9bFVImW1r9khUpnwHJde7WA",
+              "cmp_52d44f5d2dec2d6d560142d74d29570e0fce0f89": "3vXdIHMfiVMkkdD5csnNFpNalIcQErlJbZ8HZxWh3Ww",
+              "cmp_86c0e982b66f2ca0608809a4fa58b7de0c93e70d": "L6m2iIPb9YrCTv4Tx5bw30RhzTX41j7uWaWL6Hmjkm0"
+            }
+          }
+        ]
+      },
+      "profile": {
+        "confirmation_depth": 6,
+        "initial_target": 110427941548649020598956093796432407239217743554726184882600387580788735,
+        "max_blocks": 1024,
+        "max_branches": 4,
+        "max_snapshot_bytes": 33554432,
+        "pow_limit": 1766847064778384329583297500742918515827483896875618958121606201292619775,
+        "schema": "computenet.native-accumulated-work/isolated-v1",
+        "seconds": 30,
+        "status": "isolated-unratified",
+        "window": 32
+      }
+    },
+    "issuance_enabled": false,
+    "legacy_sha256": "d005d6d861e77e6006274ac683644cb26d7fe13426664aff5f63e434dd0c0fbe",
+    "live_activation_authorized": false,
+    "mainnet_anchor": true,
+    "network": "computenet-mainnet-1",
+    "runtime_sources": {
+      "native-work-correction/activation/adapter.py": "2940ce89e9c4e872561291aafd1aa6f3cf7eea7ab4cc0cf6ca10ac8a68eb3ded",
+      "native-work-correction/compound-consensus/bootstrap_entropy.py": "c8044346fa2d6140cb2598214db8d8eccc6e521891772cdbcb2c3638f7cd4dcd",
+      "native-work-correction/compound-consensus/bridge.py": "6e806ee06c5d4b3eb1e56f608f8eb7db07196aa75c2b08535adaba3a909c8f57",
+      "native-work-correction/compound-consensus/compound.py": "ac785d21c0774e5159ca3bc6b7e005f546c48a41ad59bc942560f581556d9f89"
+    },
+    "schema": "computenet.compound-preactivation/v1"
+  },
+  "descriptor_sha256": "b7b8c90f4b463dcb6c3f8c40bf2e6198a3975feccf80f23363d529fcd7cb59fe",
+  "funded_registry_balance": "0",
+  "private_bootstrap_keys_exported": false,
+  "review": {
+    "adapter_sha256": "4b877b7e99022e5d2b6a3c3ef5cbeff5fb2b23e64ce681d076ded8a71efd43f0",
+    "administration": "founder-operated-not-independent",
+    "automatic_payments": false,
+    "bootstrap_trust": "founder supplies timely unbiased release; independence not claimed",
+    "confirmation": "probabilistic-reorganisable-no-unconditional-loss-bound",
+    "descriptor_sha256": "b7b8c90f4b463dcb6c3f8c40bf2e6198a3975feccf80f23363d529fcd7cb59fe",
+    "financial_records_enabled": false,
+    "initial_protocol_id": "sha256:ab7dc5770a64896c16b7f2fbe62dd9b7181854f2c265fa34f59fdac4b4b324a2",
+    "issuance_enabled": false,
+    "maximum_authorised_canary_units": 8,
+    "production_authorized": false,
+    "schema": "computenet.founder-bootstrap-cutover/v1"
+  },
+  "review_sha256": "9c1e4a8e4e8370079e72396023602c292f1ca33cd6e8012c96f26c43ad589281"
+}
